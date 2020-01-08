@@ -1,5 +1,5 @@
 ### ambasador domain access log dashboard
-![image]https://raw.githubusercontent.com/moruikang/prometheus-grafana/master/ambassador-elasticsearch/ambassador-dashboard.jpg
+![image](https://raw.githubusercontent.com/moruikang/prometheus-grafana/master/ambassador-elasticsearch/ambassador-dashboard.jpg)
 
 - 数据源: elasticsearch
 
