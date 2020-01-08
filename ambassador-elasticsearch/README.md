@@ -1,4 +1,6 @@
 ### ambasador domain access log dashboard
+![image]https://raw.githubusercontent.com/moruikang/prometheus-grafana/master/ambassador-elasticsearch/ambassador-dashboard.jpg
+
 - 数据源: elasticsearch
 
 #### fluentd 解析规则
